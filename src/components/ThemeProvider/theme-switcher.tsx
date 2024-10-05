@@ -8,7 +8,6 @@ import {
   DropdownMenuTrigger,
 } from "../ui/dropdown-menu";
 import { MoonIcon, SunIcon } from "@radix-ui/react-icons";
-import { Button } from "../ui/button";
 
 type ThemeSwitcherProps = {
   align?: "start" | "end" | "center";
